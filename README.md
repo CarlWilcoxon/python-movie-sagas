@@ -1,4 +1,5 @@
 # REST API in Python
+_Duration: 4 hours_
 
 ## Installation
 
